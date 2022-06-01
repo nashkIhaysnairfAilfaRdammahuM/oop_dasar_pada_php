@@ -41,5 +41,3 @@ echo "<br>";
 $infoProduk1 = new CetakInfoProduk();
 echo $infoProduk1->cetak($produk1);
 ?>
-<?php
-?>
