@@ -1,6 +1,6 @@
 <!--
-Setter dan Getter (Accessor Methods)
-    - Method yang digunakan dalam sebuah class untuk mengakses property dari class tersebut.
+Abstract Class
+    - Kode dibawah menggunakan Abstract Class serta Abstract Method
 -->
 <?php
 // Jualan Produk
