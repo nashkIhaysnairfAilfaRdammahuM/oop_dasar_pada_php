@@ -15,10 +15,9 @@ Abstract Class
         - Implementasinya, ada di kelas turunannya
 
     Kenapa menggunakan kelas abstrak?
-    - Merepresentasikan ide atau konsep dasar
-    - "Composition over Inheritance"
-    - Salah satu cara menerapkan Polimorphism
-    - Sentralisasi logic
-    - Mempermudah pengerjaan tim
-    - 
+        - Merepresentasikan ide atau konsep dasar
+        - "Composition over Inheritance"
+        - Salah satu cara menerapkan Polimorphism
+        - Sentralisasi logic
+        - Mempermudah pengerjaan tim
 -->
